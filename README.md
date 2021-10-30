@@ -1,2 +1,1 @@
-# homework6-2021
-539 HW6 Flex
+# hw6-2021
